@@ -1,0 +1,44 @@
+commit 7692edf1af933f46433c448fbbbc9f1267250973
+Merge: 697fa4b ce5375f
+Author: Kota Mamiya <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:59:13 2024 +0900
+
+    Merge branch 'main' of https://github.com/KotaMamiya/litera56
+
+commit 697fa4b72ea468e76a4613187adf1166d70cd325
+Author: Kota Mamiya <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:54:19 2024 +0900
+
+    色変更
+    
+    blue->skyblue
+
+commit ce5375fc96b13beff3477dda656c2bf6663a736c
+Author: kota <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:53:09 2024 +0900
+
+    Update tetris.js
+    
+    cyan->skyblue
+
+commit 4017d443da93c752024a897ab0cf13da2ffbe3c5
+Author: Kota Mamiya <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:44:32 2024 +0900
+
+    速さ変更
+    
+    400->1000に
+
+commit e7f34bb84cc8fbc664e3da41465181386eac5691
+Author: Kota Mamiya <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:41:30 2024 +0900
+
+    色変更
+    
+    red->limeに変更
+
+commit 3064ef555981e19a1bdf94da3e0546d59f0c0a03
+Author: Kota Mamiya <147830569+KotaMamiya@users.noreply.github.com>
+Date:   Mon May 6 15:25:49 2024 +0900
+
+    ソースコードをインポート
